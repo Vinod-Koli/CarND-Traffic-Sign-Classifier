@@ -113,7 +113,7 @@ Consider the case of slippery road, the model is very much sure that this is a s
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| .50         			| slippery road   									| 
+| .50         			| Slippery Road   									| 
 | .20     				| Dangerous curve to the left 										|
 | .15					| Speed limit (60km/h)											|
 | .08	      			| Beware of ice/snow					 				|
