@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./DataSummary.png "Visualization"
-[image2]: ./New_Images/3.png "Traffic Sign 1"
+[image2]: ./New_Images/3.jpg "Traffic Sign 1"
 [image3]: ./New_Images/13.jpg "Traffic Sign 2"
 [image4]: ./New_Images/23.jpg "Traffic Sign 3"
 [image5]: ./New_Images/27.jpg "Traffic Sign 4"
@@ -86,8 +86,8 @@ From LeNet architecture I was able to get the accuracy of around 85%. Further I 
 
 Here are six German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][image2] ![alt text][image3] ![alt text][image4] 
+![alt text][image5] ![alt text][image6]
 
 The first image might be difficult to classify because ...
 
