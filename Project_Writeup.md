@@ -14,12 +14,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./DataSummary.png "Visualization"
-[image4]: ./New_Images/3.jpg "Traffic Sign 1"
-[image5]: ./New_Images/13.jpg "Traffic Sign 2"
-[image6]: ./New_Images/23.jpg "Traffic Sign 3"
-[image7]: ./New_Images/27.jpg "Traffic Sign 4"
-[image8]: ./New_Images/31.jpg "Traffic Sign 5"
-[image9]: ./New_Images/38.jpg "Traffic Sign 6"
+[image2]: ./New_Images/3.png "Traffic Sign 1"
+[image3]: ./New_Images/13.jpg "Traffic Sign 2"
+[image4]: ./New_Images/23.jpg "Traffic Sign 3"
+[image5]: ./New_Images/27.jpg "Traffic Sign 4"
+[image6]: ./New_Images/31.jpg "Traffic Sign 5"
+
 ---
 ### Data Set Summary & Exploration
 
