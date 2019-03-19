@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
+[image1]: ./DataSummary.png "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/placeholder.png "Traffic Sign 1"
@@ -33,9 +33,9 @@ I used the `numpy` library to calculate summary statistics of the traffic signs 
 * The shape of a traffic sign image: 32x32x3
 * The number of unique classes in the data set: 43
 
-#### 2. Include an exploratory visualization of the dataset.
+#### 2. Visualization of the dataset
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a bar chart showing the number of training samples of each class.
 
 ![alt text][image1]
 
