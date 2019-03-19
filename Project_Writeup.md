@@ -23,21 +23,15 @@ The goals / steps of this project are the following:
 [image8]: ./examples/placeholder.png "Traffic Sign 5"
 
 ---
-### Writeup / README
-
-
 ### Data Set Summary & Exploration
 
-#### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.
+#### 1. Basic Summary of the Data Set
 
-I used the pandas library to calculate summary statistics of the traffic
-signs data set:
+I used the `numpy` library to calculate summary statistics of the traffic signs data set:
 
-* The size of training set is ?
-* The size of the validation set is ?
-* The size of test set is ?
-* The shape of a traffic sign image is ?
-* The number of unique classes/labels in the data set is ?
+* The size of training set: 34799
+* The shape of a traffic sign image: 32x32x3
+* The number of unique classes in the data set: 43
 
 #### 2. Include an exploratory visualization of the dataset.
 
