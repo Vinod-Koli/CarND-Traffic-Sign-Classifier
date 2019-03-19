@@ -14,14 +14,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./DataSummary.png "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
-
+[image4]: ./New_Images/3.jpg "Traffic Sign 1"
+[image5]: ./New_Images/13.jpg "Traffic Sign 2"
+[image6]: ./New_Images/23.jpg "Traffic Sign 3"
+[image7]: ./New_Images/27.jpg "Traffic Sign 4"
+[image8]: ./New_Images/31.jpg "Traffic Sign 5"
+[image9]: ./New_Images/38.jpg "Traffic Sign 6"
 ---
 ### Data Set Summary & Exploration
 
@@ -86,7 +84,7 @@ From LeNet architecture I was able to get the accuracy of around 85%. Further I 
 
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web:
+Here are six German traffic signs that I found on the web:
 
 ![alt text][image4] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
