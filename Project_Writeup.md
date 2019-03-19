@@ -87,24 +87,25 @@ From LeNet architecture I was able to get the accuracy of around 85%. Further I 
 Here are six German traffic signs that I found on the web:
 
 ![alt text][image2] ![alt text][image3] ![alt text][image4] 
-![alt text][image5] ![alt text][image6]
+![alt text][image5] ![alt text][image6] ![Lanes Image](./New_Images/38.jpg) 
 
-The first image might be difficult to classify because ...
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
+
+The model did a good job on new set of images, it was able to predict 5 images correctly out of 6.
 
 Here are the results of the prediction:
 
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| Stop Sign      		| Stop sign   									| 
-| U-turn     			| U-turn 										|
-| Yield					| Yield											|
-| 100 km/h	      		| Bumpy Road					 				|
-| Slippery Road			| Slippery Road      							|
+| Yield      		| Yield   									| 
+| Slippery Raod     			| Slippery Raod 										|
+| Pedestrians					| Pedestrians											|
+| Speed Limit(60Km/h)	      		| Speed Limit(30Km/h)					 				|
+| Wild Animal Crossing			| Wild Animal Crossing      							|
+| Keep Right			| Keep Righ      							|
 
-
-The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. This compares favorably to the accuracy on the test set of ...
+The model's accuracy was about 83%.
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
